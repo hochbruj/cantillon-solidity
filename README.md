@@ -13,7 +13,7 @@ Create secrets.json like this
 ```
 {
   "mnemonic": "your seed",
-  "infuraApiKey": "your-infura-project-id3"
+  "infuraApiKey": "your-infura-project-id"
 }
 ```
 
@@ -25,7 +25,7 @@ Configure node in test-environment.config.js
 npm run test:kovan
 ```
 
-### Kovan
+### Mainnet fork
 
 ```
 npm run test:main
